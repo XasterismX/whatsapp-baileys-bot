@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Данные сессии WhatsApp (содержат приватные ключи!)
+auth_info/
+*.json
+
+# Логи
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
